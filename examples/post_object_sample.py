@@ -24,7 +24,7 @@ from obs import ObsClient, const
 
 AK = '*** Provide your Access Key ***'
 SK = '*** Provide your Secret Key ***'
-server = 'https://your-endpoint'
+server = 'obs.ru-moscow-1.hc.sbercloud.ru'
 bucketName = 'my-obs-bucket-demo'
 objectKey = 'my-obs-object-key-demo'
 IS_PYTHON2 = sys.version_info.major == 2 or sys.version < '3'

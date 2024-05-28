@@ -22,7 +22,7 @@ from obs import ObsClient
 
 AK = '*** Provide your Access Key ***'
 SK = '*** Provide your Secret Key ***'
-server = 'https://your-endpoint'
+server = 'obs.ru-moscow-1.hc.sbercloud.ru'
 bucketName = 'my-obs-bucket-demo'
 
 # Constructs a obs client instance with your account for accessing OBS

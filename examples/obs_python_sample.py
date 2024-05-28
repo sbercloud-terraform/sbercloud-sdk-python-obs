@@ -22,7 +22,7 @@ from obs import AppendObjectContent, GetObjectRequest, GetObjectHeader, RestoreT
 
 AK = '*** Provide your Access Key ***'
 SK = '*** Provide your Secret Key ***'
-server = 'https://your-endpoint'
+server = 'obs.ru-moscow-1.hc.sbercloud.ru'
 bucketName = 'my-obs-bucket-demo'
 
 # create ObsClient instance

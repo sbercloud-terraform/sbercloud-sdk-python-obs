@@ -20,7 +20,7 @@ from obs.obs_cipher_suite import CTRCipherGenerator, CtrRSACipherGenerator
 
 AK = '*** Provide your Access Key ***'
 SK = '*** Provide your Secret Key ***'
-server = 'https://your-endpoint'
+server = 'obs.ru-moscow-1.hc.sbercloud.ru'
 
 bucketName = 'my-obs-bucket-demo'
 test_file = "path/to/your/test/file"

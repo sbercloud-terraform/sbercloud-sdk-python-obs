@@ -25,7 +25,7 @@ from obs.util import base64_encode, md5_encode
 
 AK = '*** Provide your Access Key ***'
 SK = '*** Provide your Secret Key ***'
-server = 'https://your-endpoint'
+server = 'obs.ru-moscow-1.hc.sbercloud.ru'
 bucketName = 'my-obs-bucket-demo'
 objectKey = 'my-obs-object-key-demo'
 
